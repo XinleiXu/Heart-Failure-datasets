@@ -1,9 +1,7 @@
 # Heart-Failure-datasets
 Heart Failure datasets
 
-The original information of SSHF is retrieved
-
-The classification target is binary, using the label from the set {Death, S urvival}. 
+The classification target is binary, using the label from the set {Death, Survival}. 
 
 In this task, the number of Death cases is obviously less than that of Survival ones. 
 
